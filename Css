@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+.hero {
+    background: linear-gradient(to right, #4facfe, #00f2fe);
+    text-align: center;
+    padding: 100px 20px;
+    color: white;
+}
+
+.hero h1 span {
+    color: #ffe600;
+}
+
+.btn {
+    padding: 10px 20px;
+    background: #ffe600;
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
